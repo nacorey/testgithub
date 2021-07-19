@@ -1,3 +1,3 @@
 # TEST + GITHUB
 
-github연습
+github 추가
